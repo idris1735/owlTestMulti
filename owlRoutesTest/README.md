@@ -1,6 +1,7 @@
 # OWL Javascript Project Starter
 
-This repo is a simple example of single page designs using OWL.
+- This repo is a simple example of Multi page designs using OWL and understanding it's routes.
+- It's design and functionality might not be as perfect as this projects is solely based on it's routes and not design
 
 ## Features
 
